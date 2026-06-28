@@ -1,0 +1,38 @@
+input {
+  font-size: 16px;
+  font-family: Arial;
+  width: 400px;
+  border-width: 2px;
+  border-style: solid;
+  padding-top: 8px;
+  padding-bottom: 8px;
+ 
+  
+  margin-top: 0px;
+  margin-bottom: 10px;
+  
+}
+.text-1 {
+  margin-bottom: 0px;
+  color: rgb(100, 100, 100);
+}
+.text-2 {
+  font-size: 16px;
+  font-family: Arial;
+  color: rgb(100, 100, 100);
+  margin-bottom: 10px;
+}
+.join-button {
+  background-color: rgb(10, 102, 194);
+  color: white;
+  width: 400px;
+  font-family: Arial;
+  font-size: 20px;
+  border: none;
+  border-radius: 30px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 16px;
+  margin-top: 0px;
+
+}
